@@ -29,8 +29,6 @@ My current goal is to secure a position in an innovative IT company where I can 
 - [Email](sarimiqbal705@gmail.com)
   
 
-Feel free to explore my repositories and reach out if you want to collaborate on exciting projects or discuss innovative ideas!
-
 
 
 
