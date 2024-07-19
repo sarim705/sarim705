@@ -8,7 +8,7 @@ Machine Learning, with a proven track record of practical experience through var
 - **Full Stack Web Development**
   - Frontend: HTML, CSS, JavaScript, React, Angular
   - Backend: Node.js, Express, Django, Flask
-  - Databases: MySQL, MongoDB
+  - Databases: MySQL
   - DevOps: Docker, Kubernetes, CI/CD
 
 - **Machine Learning**
