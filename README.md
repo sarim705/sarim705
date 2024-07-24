@@ -2,11 +2,11 @@
 
 Welcome to my GitHub profile! I am a passionate and motivated Software Developer with a Bachelor's degree in Computer Science and Engineering (B.Tech). I specialize in Full Stack Web Development and 
 Machine Learning, with a proven track record of practical experience through various internships and projects.
-
+,
 ## 🚀 Skills and Expertise
 
 - **Full Stack Web Development**
-  - Frontend: HTML, CSS, JavaScript, React, Angular
+  - Frontend: HTML, CSS, JavaScript, React, Next.js, Angular
   - Backend: Node.js, Express, Django, Flask
   - Databases: MySQL
   - DevOps: Docker, Kubernetes, CI/CD
